@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\OpenCvSharp-AnyCPU.2.4.10.20170306\build\OpenCvSharp-AnyCPU.props" Condition="Exists('..\packages\OpenCvSharp-AnyCPU.2.4.10.20170306\build\OpenCvSharp-AnyCPU.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{21EB3B68-CB00-45DA-B031-ED3D0F86F052}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>미니프로젝트_vol3_2_</RootNamespace>
+    <AssemblyName>미니프로젝트%28vol3-2%29</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.18.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\송민지\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp-AnyCPU.2.4.10.20170306\lib\net45\OpenCvSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.Blob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp-AnyCPU.2.4.10.20170306\lib\net45\OpenCvSharp.Blob.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.CPlusPlus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp-AnyCPU.2.4.10.20170306\lib\net45\OpenCvSharp.CPlusPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp-AnyCPU.2.4.10.20170306\lib\net45\OpenCvSharp.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.UserInterface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp-AnyCPU.2.4.10.20170306\lib\net45\OpenCvSharp.UserInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.5\lib\net461\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.5\lib\net461\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForm.Designer.cs">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="거래처정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="거래처정보.Designer.cs">
+      <DependentUpon>거래처정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QR코드생성.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QR코드생성.Designer.cs">
+      <DependentUpon>QR코드생성.cs</DependentUpon>
+    </Compile>
+    <Compile Include="사원정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="사원정보.Designer.cs">
+      <DependentUpon>사원정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="입고정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="입고정보.Designer.cs">
+      <DependentUpon>입고정보.cs</DependentUpon>
+    </Compile>
+    <Compile Include="출고정보_QR읽기.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="출고정보_QR읽기.Designer.cs">
+      <DependentUpon>출고정보_QR읽기.cs</DependentUpon>
+    </Compile>
+    <Compile Include="품목정보.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="품목정보.Designer.cs">
+      <DependentUpon>품목정보.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LogInForm.resx">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="거래처정보.resx">
+      <DependentUpon>거래처정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QR코드생성.resx">
+      <DependentUpon>QR코드생성.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="사원정보.resx">
+      <DependentUpon>사원정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="입고정보.resx">
+      <DependentUpon>입고정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="출고정보_QR읽기.resx">
+      <DependentUpon>출고정보_QR읽기.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="품목정보.resx">
+      <DependentUpon>품목정보.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-qr-code-100 %282%29_waifu2x_art_noise3_scale_tta_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\제목.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\제목1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\제목2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\사원관리.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\사원관리1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\사원관리2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\그림2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\그림3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\그림4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\그림5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\그림51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\그림6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\그림7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancel-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancel-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-qr-code-40.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>이 프로젝트는 이 컴퓨터에 없는 NuGet 패키지를 참조합니다. 해당 패키지를 다운로드하려면 NuGet 패키지 복원을 사용하십시오. 자세한 내용은 http://go.microsoft.com/fwlink/?LinkID=322105를 참조하십시오. 누락된 파일은 {0}입니다.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\OpenCvSharp-AnyCPU.2.4.10.20170306\build\OpenCvSharp-AnyCPU.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\OpenCvSharp-AnyCPU.2.4.10.20170306\build\OpenCvSharp-AnyCPU.props'))" />
+  </Target>
+</Project>

@@ -1,0 +1,252 @@
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\미니프로젝트(vol3-2).exe.config
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\미니프로젝트(vol3-2).exe
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\미니프로젝트(vol3-2).pdb
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.LogInForm.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csproj.CopyComplete
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).exe
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).pdb
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.MainForm.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.거래처정보.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.품목정보.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.입고정보.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.사원정보.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.presentation.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.pdb
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.xml
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.presentation.pdb
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.presentation.xml
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\미니프로젝트(vol3-2).exe.config
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\미니프로젝트(vol3-2).exe
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\미니프로젝트(vol3-2).pdb
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.presentation.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.pdb
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.xml
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.presentation.pdb
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\zxing.presentation.xml
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.LogInForm.resources
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.MainForm.resources
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.Properties.Resources.resources
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.거래처정보.resources
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.사원정보.resources
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.입고정보.resources
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.출고정보.resources
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.품목정보.resources
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csproj.CopyComplete
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).exe
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).pdb
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.출고정보.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.xml
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.dll.config
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.출고정보_캠_.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.QR코드생성.resources
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.xml
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.dll.config
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.QR코드생성.resources
+C:\Users\Administrator\OneDrive\송민지\3. C#\프로젝트\미니프로젝트(vol3-2)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.출고정보_캠_.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\msvcp120.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\msvcr120.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_calib3d2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_contrib2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_core2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_features2d2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_flann2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_gpu2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_highgui2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_imgproc2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_legacy2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_ml2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_nonfree2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_objdetect2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_ocl2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_photo2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_stitching2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_superres2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_video2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x86\opencv_videostab2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\msvcp120.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\msvcr120.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_calib3d2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_contrib2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_core2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_features2d2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_flann2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_gpu2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_highgui2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_imgproc2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_legacy2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_ml2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_nonfree2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_objdetect2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_ocl2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_photo2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_stitching2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_superres2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_video2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\opencv_videostab2410.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\미니프로젝트(vol3-2).exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\미니프로젝트(vol3-2).exe
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\미니프로젝트(vol3-2).pdb
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\MySql.Data.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\zxing.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\zxing.presentation.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\Google.Protobuf.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\Renci.SshNet.dll
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.xml
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.dll.config
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Blob.dll.config
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.CPlusPlus.xml
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\zxing.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\zxing.xml
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\zxing.presentation.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\bin\Debug\zxing.presentation.xml
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.LogInForm.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.MainForm.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.거래처정보.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.QR코드생성.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.사원정보.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.입고정보.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.품목정보.resources
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).csproj.CopyComplete
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).exe
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트(vol3-2).pdb
+C:\Users\kccistc\OneDrive\SongMinJi\project\mini_project_2(v0.01)\미니프로젝트(vol3-2)\obj\Debug\미니프로젝트_vol3_2_.출고정보_QR읽기.resources
